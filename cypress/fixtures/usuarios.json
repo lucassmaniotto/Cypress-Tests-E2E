@@ -1,0 +1,26 @@
+[
+    {
+        "email": "emperor.palpatine@gmail.com",
+        "fullName": "Sheev Palpatine",
+        "userName": "darthsidious",
+        "password": "unlimitedpower"
+    },
+    {
+        "email": "hatred.maul@outlook.com",
+        "fullName": "Maul",
+        "userName": "darthmaul",
+        "password": "kenobi"
+    },
+    {
+        "email": "lord.vader@gmail.com",
+        "fullName": "Anakin Skywalker",
+        "userName": "darthvader",
+        "password": "darkside"
+    },
+    {
+        "email": "ben.kenobi@hotmail.com",
+        "fullName": "Obi-Wan 'Ben' Kenobi",
+        "userName": "obiwan",
+        "password": "hellothere"
+    }
+]

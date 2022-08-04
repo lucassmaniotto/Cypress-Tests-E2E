@@ -1,0 +1,15 @@
+{
+  "name": "testes-e2e",
+  "version": "1.0.0",
+  "description": "Alura - Testes de automação",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Lucas Smaniotto",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^10.4.0",
+    "mochawesome": "^7.1.3"
+  }
+}
